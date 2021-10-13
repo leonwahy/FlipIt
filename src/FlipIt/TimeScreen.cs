@@ -71,7 +71,7 @@ namespace ScreenSaver
         
         protected static readonly Color BackColorTop = Color.FromArgb(255, 18, 18, 18);
         protected static readonly Color BackColorBottom = Color.FromArgb(255, 10, 10, 10);
-        protected static readonly Brush FontBrush = new SolidBrush(Color.FromArgb(255, 183, 183, 183));
+        protected static readonly Brush FontBrush = new SolidBrush(Color.FromArgb(255, 68, 128, 255));
         
         protected static void AddFont(PrivateFontCollection pfc, byte[] fontResource)
         {
